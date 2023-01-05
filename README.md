@@ -1,5 +1,7 @@
 # Test task: React Todo list for Fasta
 
+Demo: https://olegsuv-react-todo-list.netlify.app/
+
 ## Front-end Challenge
 We provided a React template project for a Todo App. Your goal is to make the Todo App work by implementing the functionality for the components.
 
